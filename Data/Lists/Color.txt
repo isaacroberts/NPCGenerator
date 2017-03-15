@@ -1,0 +1,28 @@
+Color
+Color
+
+#<Basic
+#<Primary
+	red
+	blue
+	green
+	brown
+	black
+	grey
+	white
+	yellow
+>#Primary
+	orange
+	pink
+	purple
+	transparent
+>#
+#<Fancy
+	silver
+	gold
+	azure
+	scarlet
+	manilla
+	umber
+	perry
+>#

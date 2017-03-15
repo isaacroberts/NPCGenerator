@@ -1,0 +1,40 @@
+Body Part
+Body Part
+
+#<Section
+	head
+	chest
+	waist
+	arm
+	leg
+>#
+#<External
+	neck
+	hand
+	finger
+	toe
+	foot
+	butt
+	crotch
+	ass
+	eye
+	mouth
+	tooth
+	tail
+	skin
+	horn
+>#
+#<Organ
+	brain
+	heart
+	stomach
+	liver
+	intestine
+	kidneys
+	lungs
+	gallbladder
+	bladder
+	{[Body Part.Section]|[Body Part.External]} bone
+	doohickey
+	dangley thing
+>#

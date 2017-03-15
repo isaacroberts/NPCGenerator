@@ -1,0 +1,141 @@
+Animal
+Animal
+
+#<Domestic
+#<Mammal
+#<City
+	Horse
+	Donkey
+	Dog
+	Cat
+	Sheep
+	Pig
+	Goat
+>#Mammal
+	Chicken
+>#Domestic
+#<Mammal
+#<Small Game
+	Squirrel # Jungle
+	Raccoon #Grassland
+	Rat #Desert
+	Mouse #Desert
+	Skunk #Grassland
+	Armadillo #Desert
+#<Grassland
+	Opossum 
+	Anteater 
+	Porcupine  
+	Rabbit  
+	Jackalope #Desert
+	Stray Cat #Desert, Grassland
+#<Jungle
+	Stray Dog #Grassland, City, City, Grassland
+>#Small Game
+#<Big Game
+	Howler # Primate
+	Capuchin # Primate
+	Capybara 
+>#Jungle
+	Swine #Grassland
+	Ram #Desert
+	Bighorn #Desert
+	Bison #Grassland
+	Deer #Grassland
+	Wildhorse #Grassland, City
+	Hippo #River
+	Ogre #Grassland
+	Unicorn #Grassland, Jungle
+>#Big Game
+#<Predator
+	Mountain Lion #Desert
+	Panther #Jungle
+	Jaguar #Jungle
+	Black Bear #Grassland
+	Grizzly #Grassland, City
+	Wolf #Desert
+	Coyote #Desert, Grassland
+	Gorilla #Jungle
+	Centaur #Jungle
+	Windigo #Jungle, Grassland
+	Dragon #Grassland
+#<Desert
+	Raptor #Grassland, Grassland, Desert, Primate, Reptile, Reptile
+	Shai Hulud # Reptile
+>#Predator
+#<Bird
+	Hawk # Grassland
+	Crow, City, Grassland
+	Raven #Grassland
+	Pidgeon #City
+	Eagle #Desert
+	Owl #Grassland
+	Vulture #Grassland, City, City, Desert
+	Bat #Jungle
+	Hummingbird #Jungle
+	Griffin #Jungle, Grassland, Grassland
+>#Bird
+>#Desert
+>#Grassland
+>#Mammal
+>#
+#<Reptile
+	Jesus Lizard #River
+	Lizard #City, Grassland
+	Gecko #Grassland, Jungle
+	Chameleon #Jungle
+	Bearded Dragon #Domestic, City, Desert
+	Anaconda #Jungle
+#<Snake
+	Python #Jungle
+	Copperhead #City, Grassland, Desert
+	Viper #Jungle
+	Garden Snake #City, Grassland
+	Black Mamba #River
+	Uktena #Desert
+>#Snake
+>#
+	Toad #City, Grassland, Jungle
+	Poison Dart Frog #Jungle
+	Cockatrice #Grassland
+#<Bug
+	Spider, Grassland, City
+	Worm, Grassland, City
+	Tarantula #Desert
+	Roach #City
+#<Grassland
+	Fire Ant #Desert
+	Ant #City, Jungle
+	Beetle #Desert
+	Butterfly
+	Caterpillar #City, City, Jungle, Jungle
+>#Grassland
+>#
+#<River
+#<Fish
+	Trout 
+	Carp 
+	Sunfish 
+	Flounder 
+	Swordfish 
+	Pirahna 
+	Eel 
+>#Fish
+	Otter #Small Game
+	Beaver #Small Game, Mammal
+	Manatee #Mammal, Mammal, Big Game
+	Merhorse #Domestic
+#<Predator
+	Merpanther # Mammal
+	Shark # Fish
+	Alligator # Reptile
+	Lochness Snake #Reptile, Snake
+	Squid
+	Crab #Bug
+	Shrimp #Bug
+	Remora #Fish
+	Oyster
+	Spikey Thing
+	Guppy #Fish
+>#Predator
+>#

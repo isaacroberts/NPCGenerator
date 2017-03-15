@@ -1,0 +1,44 @@
+Human Last Name
+Last Name
+
+#<Simple
+#<Color
+	Green
+	Brown
+	Blonde
+	Black
+	Grey
+	White
+	Gold
+	Golden
+>#Color
+#<Object
+	Steel
+	Stone
+	Wood
+	Bush
+	Plant
+	Sky
+	Walker
+	Smith
+	Farm
+	Man
+>#Object
+>#
+	[Human Last Name.Simple]house
+	[Human Last Name.Simple]burn
+	[Human Last Name.Simple]man
+	[Human Last Name.Simple]wood
+	[Human Last Name.Simple]smith
+	[Human Last Name.Simple]home
+	[Human Last Name.Simple]tree
+	[Human Last Name.Simple]chester
+	[Human Last Name.Simple]wick
+	[Human Last Name.Simple]ford
+	[Human Last Name.Simple]shire
+	[Human Last Name.Simple]berg
+	[Human Last Name.Simple]cliffe
+	[Human Last Name.Simple]ville
+	[Human Last Name.Color]beard
+	[Human Last Name.Color][Human Last Name.Object]
+	[Human Last Name.Object][Human Last Name.Object]

@@ -1,0 +1,33 @@
+Weapon
+Weapon
+
+	Mace
+	Axe
+	Sword
+	Bow
+	Arrow
+	Lance
+	Gauntlet
+	Shield
+	Spear
+	Sickle
+	Club
+	Staff
+	Javelin
+	Flail
+	Rapier
+	Scimitar
+	Hammer
+	Warhammer
+	Trident
+	Greataxe
+	Greatsword
+	Greatclub
+	Scythe
+	Knife
+	Dagger
+	Longbow
+	Chain
+	Falchion
+	Wardog
+	Warhorse

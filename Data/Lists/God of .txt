@@ -1,0 +1,37 @@
+God of 
+God of
+
+	Grass
+	Herbal Remedies
+	Vision-Flowers
+	Woman
+	Man
+	Morning
+	River(s)
+	the Sea
+	the Field
+	the Plow
+	Corn/Maize
+	Soil
+	Spring
+	Winter
+	Autumn
+	Summer
+	Work
+	Growth
+	(gentle) Death
+	Water
+	the Sky
+	the Earth
+	Wind
+	Thunder
+	the Sun
+	Humans
+	Plants
+	Animals
+	Monster
+	[Animal]
+	[Monster]
+	the Wind and Rain
+	the Desert
+	Song

@@ -1,0 +1,20 @@
+Middle City Job
+Job
+
+	Blacksmith
+	Smith
+	Goldsmith
+	Clothier
+	Tailor
+	Shoemaker
+	Cobbler
+	Caller
+	Speaker
+	Butcher
+	Cook
+	Doctor
+	Scribe
+	Overseer
+	[Upper City Job] Intern
+	[Upper City Job] Apprentice
+	[Upper City Job]

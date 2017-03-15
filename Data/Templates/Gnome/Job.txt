@@ -1,0 +1,7 @@
+Job
+Job
+
+	Village Job:1.0:Village Job
+	Upper City Job:1.0:Upper City Job
+	Middle City Job:1.0:Middle City Job
+	Lower City Job:1.0:Lower City Job

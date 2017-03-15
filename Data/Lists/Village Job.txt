@@ -1,0 +1,30 @@
+Village Job
+Job
+
+	Smith
+	Blacksmith
+	Carpenter
+	Tanner
+	Shephard
+	Hunter
+	Skinner
+	Watch
+	Shepherd
+	Rancher
+	Breeder
+	Gravedigger
+	Weaver
+	Butcher
+	Cook
+	Brewer
+	Bartend
+	Farmer
+	Granger
+	Sower
+	Plower
+	Seedier
+	Miller
+	Guard
+	Merchant
+	Whore
+	Matron

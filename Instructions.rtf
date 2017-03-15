@@ -1,0 +1,211 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww14100\viewh9000\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 This thing is set up as a tree. Each item on the tree is a list, except for Traits. When you click 
+\b Generate
+\b0 , the program goes through every item on the top menu and either picks option at random or adds one thing for each of them, depending on what it is. \
+\
+\
+
+\b Template
+\b0 : A type of NPC (
+\i Human
+\i0 ). \
+	Templates put every Aspect and one nested Template onto your NPC.\
+
+\b Aspect
+\b0 : A bundle of lists (
+\i Human Full Name
+\i0 ).\
+	 Aspects put one random item onto your NPC.\
+\
+
+\b List
+\b0 : A list of options (
+\i American Human First Name
+\i0 ). \
+	Lists put one random Trait into that slot for your NPC.\
+
+\b Trait
+\b0 : An item on a list (
+\i John
+\i0 ). \
+	Traits go straight onto the final NPC, but can have random elements.\
+\
+The tops of the tree must be templates. Templates and Aspects can hold any item. Lists can only hold Traits and Traits can't hold anything, although they can have random elements.\
+\
+Templates can be inside each other to create more specific version of itself. (
+\i Human
+\i0  contains 
+\i American Human
+\i0 ). The nested Template only needs to contain things that are being replaced or added. (
+\i American Human
+\i0  has 
+\i Home State
+\i0  and 
+\i American First Name
+\i0  (replacing 
+\i Human First Name
+\i0 ), but not 
+\i Personality
+\i0  because 
+\i Human
+\i0  already has 
+\i Personality
+\i0 .)\
+	
+\fs22 Note that having specific types of Human means that you will never get a basic human.
+\fs18  Unless you left click within Human (while viewing its contents) and select "Allow as Complete". This adds a "<" to the Template which just means that you can sometimes get a basic Human. You can undo that by deleting the "<".
+\fs24 \
+	\
+\
+\
+I use the term "NPC" but it doesn't have to be NPCs. I use mine to generate Tim's spells and monsters and bars. \
+\
+---------------
+\b GUI
+\b0 -----------------
+\b \
+\
+
+\b0 The top menu is the Template Menu. \
+	Click on a Template to view its contents.\
+	Going down the tree forms a stack. Click on one of the bottom parts of the stack to return to that level. You'll know it when you see it.\
+\
+The lower menu is the List Menu.\
+	Click on a List to generate a random item on the list.\
+	Double click on a List to view its contents.\
+		Click on the green bar to return to view all Lists.\
+The big old white window is the NPC display.\
+	Click the gray button on it to save the current NPC to a text file.\
+		NPC is saved in the 
+\i Data/Saved 
+\i0 folder. \
+		
+\fs22 When the save is successful, a [S] will appear in the Display Window title.
+\fs18 \
+		Multiple saves with the same names will use "XXX_2", "XXX_3", the way you'd expect.
+\fs24 \
+\
+Left click to bring up a popup menu. \
+	It has Cut/Copy / Paste among other things\
+	
+\fs20 "Open File" might not work on Windows. \
+
+\fs24 \
+\
+\
+---------------
+\b Hotkeys
+\b0 ---------------\
+\
+Generate: Space\
+S: Save all files.\
+A: Add to the current Template. (A menu will appear)\
+Backspace: Go back one folder on the Template menu.\
+\
+\
+\
+\
+-------------
+\b Changing the Files Directly
+\b0 ----------------\
+\
+Lists are simple and you should edit Lists with files. I don't try to use anything else and you shouldn't either. The format of Lists is:\
+\
+Name of List [Must be unique; no two lists with the same name]\
+Type [Described Earlier]\
+					[Blank space]\
+	Option 1\
+	Option 2\
+	Option 3\
+	Et cetera\
+\
+	[The Indention isn't necessary but that's how the program will save it]\
+\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ----------------------------------------------------------------------------------------------\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 -----------------------------------
+\b Advanced Stuff
+\b0 ------------------------------------\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ----------------------------------------------------------------------------------------------\
+\
+\
+-----------
+\b Trait Random Elements
+\b0 ---------\
+\
+[List] adds a random Trait from the List in brackets. 
+\fs22 (Example: "[Gnome First Name]killer the Criminal Guy" might give you "Jerkkiller the Criminal Guy" or "Laserkiller the Criminal Guy".)
+\fs24 \
+\
+\{A | B | C\} picks one of the options.
+\fs22  Thats the straight line underneath the backspace key. You can have as many options as you want with a bar between each option. (Example: "\{King|Queen\}hater" could give you "Kinghater" or "Queenhater.)
+\fs24 \
+\
+` is a blank option.
+\fs22  It's useful for a blank list item (to allow humans to have no middle name, put ` as a separate line on the 
+\i Middle Name
+\i0  list.) or as a blank option in braces. "\{Professor|Dr.|`\} James" allows your teacher to be named "Dr. James", "Professor James", or just "James". 
+\fs24 \
+\
+These items can be combined. 
+\fs22 \{[Gnome Name]|[Elf Name]\}hater will create a criminal that either hates a particular gnome or a particular elf (ex. Lasterhater or Rose-leafhater)
+\fs24 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+--------------
+\b Name Format
+\b0 -------------\
+\
+This is one of the things I added because I didn't think about other people using it. You leave it blank and still use the program just fine. The program will try to guess what the NPC's name is so it can display that as the title. (It makes it look a lot nicer). This is how you explicitly tell it what to put as the name. \
+
+\fs22 \
+All Aspects and Lists have a type. The type is just a phrase like "Full Name" or "Personality". Aspects and Lists will replace earlier Aspects & Lists with the same type (so your NPC only has one personality, and so your American Human can have an American Name instead of a generic Human Name.). \
+	You can change the type by right clicking in the menu while viewing the contents of that Aspect or List and selecting "Change List Type".\
+\
+All Templates have one Name Format. The Name Format is a short list of types. "First Name, Middle Name, Last Name, Title". That tells the program that the display title for that NPC should be its full name. You can do a single type like "Full Name".\
+	You can change the Name Format by right clicking in the template menu when viewing the contents of that Template and selecting "Change Name Format". \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\fs24 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+------------------
+\b List Groups
+\b0 ------------------\
+\
+In case you want to break a list down further. I used it in my Animal list to sort by kingdom (mammal, reptile, etc) and environment. \
+\
+Use a group the same way you link a group with [List.Group]\
+\
+Within a List, mark groups one of two ways:\
+\
+	Deer #Mammal, Big Game, Grassland, Forest\
+	Wolf #Mammal, Carnivore\
+	Lizard #Reptile\
+	\
+	
+\b OR
+\b0 \
+\
+#<Mammal\
+#<Forest\
+	Deer\
+	Wolf\
+	Jaguar\
+>#Forest\
+	Rabbit\
+	Dog\
+>#Mammal\
+}

@@ -1,0 +1,9 @@
+Military Rank
+Military Rank
+
+	General
+	Colonel
+	Sargeant
+	Captain
+	Lieutenant
+	Private

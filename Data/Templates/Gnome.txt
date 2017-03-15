@@ -1,0 +1,7 @@
+Gnome
+Name: [Name]
+
+	A_Name
+	Sex
+	Physical Description
+	A_Job

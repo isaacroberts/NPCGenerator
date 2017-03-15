@@ -1,0 +1,38 @@
+Lower City Job
+Job
+
+	Hunter
+	Tanner
+	Skinner
+	Caller
+	Squire
+	Gravedigger
+	Clothier
+	Engraver
+	Watch
+	Weaver
+	Squire
+	Brewer
+	Miller	
+	Guard
+	Soldier
+	Merchant
+	Whore
+	Matron
+	Nanny
+	Midwife
+	Cook
+	Carpenter
+	Nurse
+	Dancer
+	Drunkard
+	Rambler
+	Drifter
+	Builder
+	Mover
+	Lifter
+	Assistant to [Middle City Job]
+	Assistant to [Upper City Job]
+	[Middle City Job] Intern
+	[Middle City Job]
+	[Upper City Job]

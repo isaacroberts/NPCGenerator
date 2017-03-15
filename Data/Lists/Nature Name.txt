@@ -1,0 +1,17 @@
+Nature Name
+Full Name
+
+	[Nature Noun][Elfname Suffix]
+	{[Nature Noun]|[Elfname Noun]}[Elfname Suffix]
+	[Elfname Noun][Elfname Suffix]
+	[Elfname Noun][Elfname Suffix]
+	[Elfname Prefix][Elfname Suffix]
+	[Elfname Prefix] {[Elfname Noun]|[Nature Noun]}
+	[Elfname Prefix] {[Elfname Noun]|[Nature Noun]}[Elfname Suffix]
+	[Elfname Noun][Elfname Suffix] of the {[Elfname Noun]|[Nature Noun]}
+	[Elfname Prefix]{[Elfname Noun]|[Nature Noun]} of {[Elfname Noun]|[Nature Noun]}
+	[Elfname Prefix]{[Elfname Noun]|[Nature Noun]} the [Nature Noun]
+	[Elfname Noun][Elfname Suffix] the [Nature Noun]
+	[Nature Noun]{[Elfname Noun]|[Nature Noun]}
+	{[Nature Noun]|[Elfname Noun]}[Elfname Noun]
+	{[Nature Noun]|[Elfname Noun]}{[Nature Noun]|[Elfname Noun]}

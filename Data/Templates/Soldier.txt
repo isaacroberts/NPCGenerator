@@ -1,0 +1,6 @@
+Soldier
+Name: [First Name][Last Name]
+
+	A_First Name
+	A_Last Name
+	Military Rank

@@ -1,0 +1,16 @@
+Name Honorific
+Epithet
+
+	The First
+	The Second
+	The Third
+	The Great
+	The Magnificent
+	The Pure
+	The Barren
+	The Bloody
+	The Conqueror
+	The Terrible
+	The Fearsome
+	The Coward
+	The Betrayer

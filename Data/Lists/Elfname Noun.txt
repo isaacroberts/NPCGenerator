@@ -1,0 +1,32 @@
+Elfname Noun
+Noun
+
+	Sense
+	Mind
+	Magic
+	Dark
+	Light
+	Day
+	Night
+	Mother
+	Father
+	Child
+	Son
+	Daughter
+	Aunt
+	Uncle
+	Witness
+	Shit
+	Hell
+	Cock
+	Sex
+	Love
+	Man
+	Woman
+	Quach
+	God
+	[Weapon]
+	City
+	Game
+	[Nature Noun]
+	[Civilized Noun]

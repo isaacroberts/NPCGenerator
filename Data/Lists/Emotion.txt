@@ -1,0 +1,37 @@
+Emotion
+Emotion
+
+	Disappointed
+	Content
+	Jolly
+	Excited
+	Furious
+	Enraged
+	Depressed
+	Manic
+	Angsty
+	Confused
+	Bored
+	Tired
+	Groggy and Delusional
+	Delusional
+	Offended
+	Embarassed
+	Feeling Busted
+	Defensive
+	Vengeful
+	Pettily vengeful
+	Disconcerted
+	Disturbed
+	Terrified
+	Panicked
+	Calm
+	Meditative
+	Spacey
+	Lazy
+	Friendly
+	Lustful
+	Greedy
+	Hungry
+	Sadistic
+	Offended
