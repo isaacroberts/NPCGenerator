@@ -2,4 +2,4 @@ NPCGenerator allows DMs to quickly generate interesting characters during Dungeo
 
 The system uses ASCII formatting to allow linking and switching. For example: "[English Male Name | English Female Name] the [Weapon]" could generate such legends as "Henrietta the Greatsword" or "Joseph the Mace". 
 
-I ran a campaign that used this app to randomly generate spells, and minor dieties, to great hilarity. 
+I ran a campaign that used this app to randomly generate characters, spells, and minor dieties, to great hilarity. 
